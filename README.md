@@ -16,3 +16,9 @@ puseha todos los commits a la nube
 ## git status 
 muestra el estado de git, commits, archivos, y si esta al dia.
 
+´´´python
+
+def main():
+	print()
+
+´´´
